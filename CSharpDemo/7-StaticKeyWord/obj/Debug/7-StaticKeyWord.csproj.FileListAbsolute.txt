@@ -1,0 +1,6 @@
+D:\C#\Practice\CSharpDemo\7-StaticKeyWord\bin\Debug\7-StaticKeyWord.exe.config
+D:\C#\Practice\CSharpDemo\7-StaticKeyWord\bin\Debug\7-StaticKeyWord.exe
+D:\C#\Practice\CSharpDemo\7-StaticKeyWord\bin\Debug\7-StaticKeyWord.pdb
+D:\C#\Practice\CSharpDemo\7-StaticKeyWord\obj\Debug\7-StaticKeyWord.csprojResolveAssemblyReference.cache
+D:\C#\Practice\CSharpDemo\7-StaticKeyWord\obj\Debug\7-StaticKeyWord.exe
+D:\C#\Practice\CSharpDemo\7-StaticKeyWord\obj\Debug\7-StaticKeyWord.pdb

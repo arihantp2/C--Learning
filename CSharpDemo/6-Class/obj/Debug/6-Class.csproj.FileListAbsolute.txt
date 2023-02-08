@@ -1,0 +1,6 @@
+D:\C#\Practice\CSharpDemo\6-Class\bin\Debug\6-Class.exe.config
+D:\C#\Practice\CSharpDemo\6-Class\bin\Debug\6-Class.exe
+D:\C#\Practice\CSharpDemo\6-Class\bin\Debug\6-Class.pdb
+D:\C#\Practice\CSharpDemo\6-Class\obj\Debug\6-Class.csprojResolveAssemblyReference.cache
+D:\C#\Practice\CSharpDemo\6-Class\obj\Debug\6-Class.exe
+D:\C#\Practice\CSharpDemo\6-Class\obj\Debug\6-Class.pdb
