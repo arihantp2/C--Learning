@@ -1,0 +1,6 @@
+D:\C#\Practice\CSharpDemo\2-Operators\bin\Debug\2-Operators.exe.config
+D:\C#\Practice\CSharpDemo\2-Operators\bin\Debug\2-Operators.exe
+D:\C#\Practice\CSharpDemo\2-Operators\bin\Debug\2-Operators.pdb
+D:\C#\Practice\CSharpDemo\2-Operators\obj\Debug\2-Operators.csprojResolveAssemblyReference.cache
+D:\C#\Practice\CSharpDemo\2-Operators\obj\Debug\2-Operators.exe
+D:\C#\Practice\CSharpDemo\2-Operators\obj\Debug\2-Operators.pdb

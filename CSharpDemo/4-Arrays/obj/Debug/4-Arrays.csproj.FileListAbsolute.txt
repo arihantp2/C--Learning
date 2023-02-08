@@ -1,0 +1,6 @@
+D:\C#\Practice\CSharpDemo\4-Arrays\bin\Debug\4-Arrays.exe.config
+D:\C#\Practice\CSharpDemo\4-Arrays\bin\Debug\4-Arrays.exe
+D:\C#\Practice\CSharpDemo\4-Arrays\bin\Debug\4-Arrays.pdb
+D:\C#\Practice\CSharpDemo\4-Arrays\obj\Debug\4-Arrays.csprojResolveAssemblyReference.cache
+D:\C#\Practice\CSharpDemo\4-Arrays\obj\Debug\4-Arrays.exe
+D:\C#\Practice\CSharpDemo\4-Arrays\obj\Debug\4-Arrays.pdb

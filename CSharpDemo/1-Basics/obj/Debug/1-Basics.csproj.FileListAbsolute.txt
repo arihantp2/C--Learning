@@ -1,0 +1,12 @@
+D:\C#\Practice\CSharpDemo\1-Basics\bin\Debug\1-Basics.exe.config
+D:\C#\Practice\CSharpDemo\1-Basics\bin\Debug\1-Basics.exe
+D:\C#\Practice\CSharpDemo\1-Basics\bin\Debug\1-Basics.pdb
+D:\C#\Practice\CSharpDemo\1-Basics\obj\Debug\1-Basics.exe
+D:\C#\Practice\CSharpDemo\1-Basics\obj\Debug\1-Basics.pdb
+D:\C#\Practice\CSharpDemo\1-Basics\obj\Debug\1-Basics.csprojResolveAssemblyReference.cache
+D:\C#\C# Notes\Practice\CSharpDemo\1-Basics\bin\Debug\1-Basics.exe.config
+D:\C#\C# Notes\Practice\CSharpDemo\1-Basics\bin\Debug\1-Basics.exe
+D:\C#\C# Notes\Practice\CSharpDemo\1-Basics\bin\Debug\1-Basics.pdb
+D:\C#\C# Notes\Practice\CSharpDemo\1-Basics\obj\Debug\1-Basics.csprojResolveAssemblyReference.cache
+D:\C#\C# Notes\Practice\CSharpDemo\1-Basics\obj\Debug\1-Basics.exe
+D:\C#\C# Notes\Practice\CSharpDemo\1-Basics\obj\Debug\1-Basics.pdb
