@@ -1,0 +1,6 @@
+D:\C#\Practice\CSharpDemo\11-Abstract-Implementation\bin\Debug\11-Abstract-Implementation.exe.config
+D:\C#\Practice\CSharpDemo\11-Abstract-Implementation\bin\Debug\11-Abstract-Implementation.exe
+D:\C#\Practice\CSharpDemo\11-Abstract-Implementation\bin\Debug\11-Abstract-Implementation.pdb
+D:\C#\Practice\CSharpDemo\11-Abstract-Implementation\obj\Debug\11-Abstract-Implementation.csprojResolveAssemblyReference.cache
+D:\C#\Practice\CSharpDemo\11-Abstract-Implementation\obj\Debug\11-Abstract-Implementation.exe
+D:\C#\Practice\CSharpDemo\11-Abstract-Implementation\obj\Debug\11-Abstract-Implementation.pdb
