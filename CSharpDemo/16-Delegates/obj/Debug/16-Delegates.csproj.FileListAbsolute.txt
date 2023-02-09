@@ -1,0 +1,6 @@
+D:\C#\C# Notes\Practice\CSharpDemo\16-Delegates\bin\Debug\16-Delegates.exe.config
+D:\C#\C# Notes\Practice\CSharpDemo\16-Delegates\bin\Debug\16-Delegates.exe
+D:\C#\C# Notes\Practice\CSharpDemo\16-Delegates\bin\Debug\16-Delegates.pdb
+D:\C#\C# Notes\Practice\CSharpDemo\16-Delegates\obj\Debug\16-Delegates.csprojResolveAssemblyReference.cache
+D:\C#\C# Notes\Practice\CSharpDemo\16-Delegates\obj\Debug\16-Delegates.exe
+D:\C#\C# Notes\Practice\CSharpDemo\16-Delegates\obj\Debug\16-Delegates.pdb

@@ -1,0 +1,8 @@
+D:\C#\Practice\CSharpDemo\11-AbstractChild\bin\Debug\11-AbstractChild.exe.config
+D:\C#\Practice\CSharpDemo\11-AbstractChild\bin\Debug\11-AbstractChild.exe
+D:\C#\Practice\CSharpDemo\11-AbstractChild\bin\Debug\11-AbstractChild.pdb
+D:\C#\Practice\CSharpDemo\11-AbstractChild\bin\Debug\11-AbstractParent.exe
+D:\C#\Practice\CSharpDemo\11-AbstractChild\bin\Debug\11-AbstractParent.pdb
+D:\C#\Practice\CSharpDemo\11-AbstractChild\obj\Debug\11-AbstractChild.csprojResolveAssemblyReference.cache
+D:\C#\Practice\CSharpDemo\11-AbstractChild\obj\Debug\11-AbstractChild.exe
+D:\C#\Practice\CSharpDemo\11-AbstractChild\obj\Debug\11-AbstractChild.pdb

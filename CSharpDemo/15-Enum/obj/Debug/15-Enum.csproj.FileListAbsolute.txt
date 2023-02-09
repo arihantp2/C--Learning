@@ -1,0 +1,6 @@
+D:\C#\C# Notes\Practice\CSharpDemo\15-Enum\bin\Debug\15-Enum.exe.config
+D:\C#\C# Notes\Practice\CSharpDemo\15-Enum\bin\Debug\15-Enum.exe
+D:\C#\C# Notes\Practice\CSharpDemo\15-Enum\bin\Debug\15-Enum.pdb
+D:\C#\C# Notes\Practice\CSharpDemo\15-Enum\obj\Debug\15-Enum.csprojResolveAssemblyReference.cache
+D:\C#\C# Notes\Practice\CSharpDemo\15-Enum\obj\Debug\15-Enum.exe
+D:\C#\C# Notes\Practice\CSharpDemo\15-Enum\obj\Debug\15-Enum.pdb
