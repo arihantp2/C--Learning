@@ -1,0 +1,5 @@
+D:\C#\C# Notes\Practice\CSharpDemo\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+D:\C#\C# Notes\Practice\CSharpDemo\GenericDelegate\bin\Debug\GenericDelegate.exe
+D:\C#\C# Notes\Practice\CSharpDemo\GenericDelegate\bin\Debug\GenericDelegate.pdb
+D:\C#\C# Notes\Practice\CSharpDemo\GenericDelegate\obj\Debug\GenericDelegate.exe
+D:\C#\C# Notes\Practice\CSharpDemo\GenericDelegate\obj\Debug\GenericDelegate.pdb

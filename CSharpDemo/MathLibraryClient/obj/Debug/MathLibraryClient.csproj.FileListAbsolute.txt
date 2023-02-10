@@ -1,0 +1,16 @@
+D:\C#\Practice\CSharpDemo\MathLibraryClient\bin\Debug\MathLibraryClient.exe.config
+D:\C#\Practice\CSharpDemo\MathLibraryClient\bin\Debug\MathLibraryClient.exe
+D:\C#\Practice\CSharpDemo\MathLibraryClient\bin\Debug\MathLibraryClient.pdb
+D:\C#\Practice\CSharpDemo\MathLibraryClient\bin\Debug\MathLibrary.dll
+D:\C#\Practice\CSharpDemo\MathLibraryClient\bin\Debug\MathLibrary.pdb
+D:\C#\Practice\CSharpDemo\MathLibraryClient\obj\Debug\MathLibraryClient.csprojResolveAssemblyReference.cache
+D:\C#\Practice\CSharpDemo\MathLibraryClient\obj\Debug\MathLibraryClient.exe
+D:\C#\Practice\CSharpDemo\MathLibraryClient\obj\Debug\MathLibraryClient.pdb
+D:\C#\C# Notes\Practice\CSharpDemo\MathLibraryClient\bin\Debug\MathLibraryClient.exe.config
+D:\C#\C# Notes\Practice\CSharpDemo\MathLibraryClient\bin\Debug\MathLibraryClient.exe
+D:\C#\C# Notes\Practice\CSharpDemo\MathLibraryClient\bin\Debug\MathLibraryClient.pdb
+D:\C#\C# Notes\Practice\CSharpDemo\MathLibraryClient\bin\Debug\MathLibrary.dll
+D:\C#\C# Notes\Practice\CSharpDemo\MathLibraryClient\bin\Debug\MathLibrary.pdb
+D:\C#\C# Notes\Practice\CSharpDemo\MathLibraryClient\obj\Debug\MathLibraryClient.csprojResolveAssemblyReference.cache
+D:\C#\C# Notes\Practice\CSharpDemo\MathLibraryClient\obj\Debug\MathLibraryClient.exe
+D:\C#\C# Notes\Practice\CSharpDemo\MathLibraryClient\obj\Debug\MathLibraryClient.pdb
