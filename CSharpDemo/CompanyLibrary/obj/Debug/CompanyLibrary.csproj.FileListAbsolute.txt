@@ -1,0 +1,5 @@
+D:\C#\C# Notes\Practice\CSharpDemo\CompanyLibrary\bin\Debug\CompanyLibrary.dll
+D:\C#\C# Notes\Practice\CSharpDemo\CompanyLibrary\bin\Debug\CompanyLibrary.pdb
+D:\C#\C# Notes\Practice\CSharpDemo\CompanyLibrary\obj\Debug\CompanyLibrary.csprojResolveAssemblyReference.cache
+D:\C#\C# Notes\Practice\CSharpDemo\CompanyLibrary\obj\Debug\CompanyLibrary.dll
+D:\C#\C# Notes\Practice\CSharpDemo\CompanyLibrary\obj\Debug\CompanyLibrary.pdb

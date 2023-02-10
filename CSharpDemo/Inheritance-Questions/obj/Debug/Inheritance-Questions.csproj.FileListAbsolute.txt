@@ -1,0 +1,11 @@
+D:\C#\Practice\CSharpDemo\Inheritance-Questions\bin\Debug\Inheritance-Questions.exe.config
+D:\C#\Practice\CSharpDemo\Inheritance-Questions\bin\Debug\Inheritance-Questions.exe
+D:\C#\Practice\CSharpDemo\Inheritance-Questions\bin\Debug\Inheritance-Questions.pdb
+D:\C#\Practice\CSharpDemo\Inheritance-Questions\obj\Debug\Inheritance-Questions.csprojResolveAssemblyReference.cache
+D:\C#\Practice\CSharpDemo\Inheritance-Questions\obj\Debug\Inheritance-Questions.exe
+D:\C#\Practice\CSharpDemo\Inheritance-Questions\obj\Debug\Inheritance-Questions.pdb
+D:\C#\C# Notes\Practice\CSharpDemo\Inheritance-Questions\bin\Debug\Inheritance-Questions.exe.config
+D:\C#\C# Notes\Practice\CSharpDemo\Inheritance-Questions\bin\Debug\Inheritance-Questions.exe
+D:\C#\C# Notes\Practice\CSharpDemo\Inheritance-Questions\bin\Debug\Inheritance-Questions.pdb
+D:\C#\C# Notes\Practice\CSharpDemo\Inheritance-Questions\obj\Debug\Inheritance-Questions.exe
+D:\C#\C# Notes\Practice\CSharpDemo\Inheritance-Questions\obj\Debug\Inheritance-Questions.pdb

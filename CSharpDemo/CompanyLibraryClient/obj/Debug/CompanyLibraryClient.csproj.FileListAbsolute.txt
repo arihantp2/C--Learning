@@ -1,0 +1,8 @@
+D:\C#\C# Notes\Practice\CSharpDemo\CompanyLibraryClient\bin\Debug\CompanyLibraryClient.exe.config
+D:\C#\C# Notes\Practice\CSharpDemo\CompanyLibraryClient\bin\Debug\CompanyLibraryClient.exe
+D:\C#\C# Notes\Practice\CSharpDemo\CompanyLibraryClient\bin\Debug\CompanyLibraryClient.pdb
+D:\C#\C# Notes\Practice\CSharpDemo\CompanyLibraryClient\bin\Debug\CompanyLibrary.dll
+D:\C#\C# Notes\Practice\CSharpDemo\CompanyLibraryClient\bin\Debug\CompanyLibrary.pdb
+D:\C#\C# Notes\Practice\CSharpDemo\CompanyLibraryClient\obj\Debug\CompanyLibraryClient.csprojResolveAssemblyReference.cache
+D:\C#\C# Notes\Practice\CSharpDemo\CompanyLibraryClient\obj\Debug\CompanyLibraryClient.exe
+D:\C#\C# Notes\Practice\CSharpDemo\CompanyLibraryClient\obj\Debug\CompanyLibraryClient.pdb

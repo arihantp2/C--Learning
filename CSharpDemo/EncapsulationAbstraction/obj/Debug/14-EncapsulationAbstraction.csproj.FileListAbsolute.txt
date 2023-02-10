@@ -1,0 +1,5 @@
+D:\C#\C# Notes\Practice\CSharpDemo\EncapsulationAbstraction\bin\Debug\EncapsulationAbstraction.exe.config
+D:\C#\C# Notes\Practice\CSharpDemo\EncapsulationAbstraction\bin\Debug\EncapsulationAbstraction.exe
+D:\C#\C# Notes\Practice\CSharpDemo\EncapsulationAbstraction\bin\Debug\EncapsulationAbstraction.pdb
+D:\C#\C# Notes\Practice\CSharpDemo\EncapsulationAbstraction\obj\Debug\EncapsulationAbstraction.exe
+D:\C#\C# Notes\Practice\CSharpDemo\EncapsulationAbstraction\obj\Debug\EncapsulationAbstraction.pdb

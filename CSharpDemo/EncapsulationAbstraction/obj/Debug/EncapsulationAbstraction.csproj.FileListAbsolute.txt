@@ -1,0 +1,2 @@
+D:\C#\Practice\CSharpDemo\EncapsulationAbstraction\bin\Debug\EncapsulationAbstraction.exe.config
+D:\C#\C# Notes\Practice\CSharpDemo\EncapsulationAbstraction\bin\Debug\EncapsulationAbstraction.exe.config
